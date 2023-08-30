@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestNG suite">
+	<test name="Add Package">
+		<classes>
+			<class name="testcases.Add_Package"></class>
+		</classes>
+	</test>
+
+
+	<test name="Delete Packege">
+		<classes>
+			<class name="testcases.Delete_Package"></class>
+		</classes>
+	</test>
+
+
+</suite>
+             
